@@ -34,7 +34,7 @@ bindsym $alt+Shift+Tab exec i3-alt-tab.py prev current
 
 Insert the following line into your i3 config;
 ~~~~
-bindsym $alt+Tab exec i3-alt-tab.py next current
-bindsym $alt+Shift+Tab exec i3-alt-tab.py prev current
+bindsym $alt+Tab exec i3-alt-tab.py next all
+bindsym $alt+Shift+Tab exec i3-alt-tab.py prev all
 ~~~~
 
