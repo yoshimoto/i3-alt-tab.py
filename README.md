@@ -22,7 +22,7 @@ $ i3-alt-tab.py prev all  # Focus previous window
 ## i3 configuration
 
 
-### Bind alt+tab to switch windows in current window only.
+### Bind alt+tab to switch windows in current workspace only.
 
 Insert the following line into your i3 config;
 ~~~~
