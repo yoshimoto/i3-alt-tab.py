@@ -1,7 +1,7 @@
 
 # i3-alt-tab window switcher
 
-Window switcher for i3
+Window switcher for i3 window manager (https://i3wm.org)
 
 ## Usage
 
